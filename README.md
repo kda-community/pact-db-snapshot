@@ -6,7 +6,7 @@ To restore the db:
 - Download parts from release
 
 ```shell
-cat pact-v1-chain-XX.sqlite.xz.part-* | xz -d > pact-v1-XX.sqlite
+cat pact-v1-chain-XX.sqlite.xz.part-* | xz -d > pact-v1-chain-XX.sqlite
 ```
 
 where XX is the chain ID (from 0 to 19)
