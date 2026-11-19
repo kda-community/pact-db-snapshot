@@ -1,6 +1,6 @@
 ## Pact Full DB Snapshot
 
-Non-compacted Pact Datanse
+Non-compacted Pact Database
 
 To restore the db:
 - Download parts from release
